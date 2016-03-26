@@ -1,4 +1,4 @@
 My-projects
 ===========
 
-This is my repository in which different types of applications (web, security, android apps, etc) will be commited!. 
+A repository where a track of my projects will be committed in.  
