@@ -1,4 +1,1 @@
-My-projects
-===========
-
-A repository where a track of my projects will be committed in.  
+GIDAMS (Generalized Intrusion Detection and Adaptive Mitigation System) is a security framework being implemented on the SDN application layer. It is a framework where various types of application securities will be implemented in.   
