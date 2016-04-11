@@ -1,1 +1,1 @@
-GIDAMS (Generalized Intrusion Detection and Adaptive Mitigation System) is a security framework being implemented on the SDN application layer. It is a framework where various types of application securities will be implemented in.   
+GIDAMS (Generalized Intrusion Detection and Adaptive Mitigation System) is a security framework being implemented on the SDN application layer. It is a framework that helps implementing various type of SDN security features on the application layer.   
